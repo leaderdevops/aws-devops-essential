@@ -4,7 +4,7 @@
 ############################################
 
 # Set base image to python
-FROM python:3.5
+FROM python:3.12.0a5
 
 # File Author / Maintainer
 MAINTAINER Karthik T
